@@ -1,0 +1,8 @@
+{
+  "arch": "ExampleNet_RNN",
+  "model_parameters": {
+    "valid": "valid.pkl",
+    "embedding": "./code/data/embedding.pkl"
+  }
+}
+

@@ -1,0 +1,8 @@
+{
+  "arch": "ExampleNet_Best",
+  "model_parameters": {
+    "valid": "valid.pkl",
+    "embedding": "./code/data/embedding.pkl"
+  }
+}
+
